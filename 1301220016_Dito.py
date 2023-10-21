@@ -1,0 +1,2 @@
+print("ANDITO RIZKYKA")
+print("1301220016") 
