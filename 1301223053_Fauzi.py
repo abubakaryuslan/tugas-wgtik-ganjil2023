@@ -1,0 +1,1 @@
+print("Nama : Fauzi Zaidan Pratama\nNIM: 1301223053")
