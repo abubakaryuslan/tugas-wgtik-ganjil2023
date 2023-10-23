@@ -1,0 +1,1 @@
+print("muhammad shafa praramadhana 1301223055")
