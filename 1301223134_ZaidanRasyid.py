@@ -1,1 +1,0 @@
-print("1301223134, Zaidan Rasyid")
