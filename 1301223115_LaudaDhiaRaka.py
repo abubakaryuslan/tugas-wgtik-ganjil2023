@@ -1,0 +1,1 @@
+print("Nama: Lauda Dhia Raka \nNIM: 1301223115")
