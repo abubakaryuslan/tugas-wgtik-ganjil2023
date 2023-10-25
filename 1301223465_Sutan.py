@@ -1,0 +1,1 @@
+print("Sutan Rifky Tedjasukmana",1301223465)
