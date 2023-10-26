@@ -1,0 +1,1 @@
+print("Nama : Yongky Nim : 1301223429" )
