@@ -1,0 +1,1 @@
+print("Nama: Christopher Daeng kilantan\nNIM : 1301223402")
