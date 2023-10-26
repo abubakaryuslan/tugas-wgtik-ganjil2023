@@ -1,0 +1,1 @@
+print("Nama : Antonius Vincent Jung \n NIM : 1301223436")
