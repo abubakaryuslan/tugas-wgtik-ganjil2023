@@ -1,0 +1,1 @@
+print("Nama: Audrey Nasywaa Harimaydina\nNIM: 1301220347")
