@@ -1,0 +1,1 @@
+print("Nama : Awanda Puspa Larasati \ NIM : 1301223101")
