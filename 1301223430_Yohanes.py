@@ -1,0 +1,1 @@
+print("Nama Saya: Yohanes Januarico Andiawan\nNIM: 1301223430")
