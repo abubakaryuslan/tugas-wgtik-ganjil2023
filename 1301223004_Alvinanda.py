@@ -1,0 +1,1 @@
+print("Nama: Mohammad Alvinanda Kurniawan\nNIm: 1301223004")
