@@ -1,0 +1,2 @@
+print("NAMA: MEGA BUNAWI")
+print("NIM :1301220366")
