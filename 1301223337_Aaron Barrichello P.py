@@ -1,1 +1,0 @@
-print ("Tugas Tik Week 4")
