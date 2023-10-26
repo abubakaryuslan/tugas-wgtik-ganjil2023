@@ -1,2 +1,2 @@
-print(ghifaryahmad)
-print(1301223074)
+print("ghifaryahmad")
+print("1301223074")
