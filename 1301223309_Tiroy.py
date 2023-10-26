@@ -1,0 +1,1 @@
+print("NIM: 1301223309 ", "Nama: Muhamad Tiroy Hidayat")
