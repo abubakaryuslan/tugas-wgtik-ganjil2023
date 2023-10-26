@@ -1,0 +1,1 @@
+print ("Nama: Valdez Bentiraz NIM: 1301220276")
