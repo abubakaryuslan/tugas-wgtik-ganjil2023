@@ -1,0 +1,1 @@
+print("NIM:1301223140\nNAma: DAffa Ananta Rachman")
