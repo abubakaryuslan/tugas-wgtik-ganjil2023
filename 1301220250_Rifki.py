@@ -1,0 +1,1 @@
+print("Nama: Muhammad Rifki Hidayatullah\nNIM: 1301220250")
