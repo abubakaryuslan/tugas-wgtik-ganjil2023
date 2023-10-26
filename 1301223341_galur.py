@@ -1,0 +1,1 @@
+print("Nama: galur perdana soemala abdillah \nNIM: 1301223341)
