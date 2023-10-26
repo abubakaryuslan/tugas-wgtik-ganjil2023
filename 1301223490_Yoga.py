@@ -1,0 +1,1 @@
+print("Nama : Yoga Bayu Samudra\nNIM: 1301223490")
